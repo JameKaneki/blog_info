@@ -1,0 +1,39 @@
+{
+  "user_info": [
+    {
+      "id": 1,
+      "name": "Nguyen Viet Minh",
+      "age": 23,
+      "address": "Ha Noi",
+      "Work": "student"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Viet Tien",
+      "age": 25,
+      "address": "Ha Noi",
+      "Work": "Driver"
+    },
+    {
+      "id": 3,
+      "name": "Son",
+      "address": "Nam Dinh",
+      "age": 26,
+      "Work": "teacher"
+    }
+  ],
+  "commnets": [
+    {
+      "user_id": 1,
+      "comment": "Buổi đi chơi hôm nay thật là vui"
+    },
+    {
+      "user_id": 2,
+      "comment": "Vui thật cơ mà mệt quá về vứt đồ ngủ luôn tới giờ ^^"
+    },
+    {
+      "user_id": 1,
+      "comment": "Ae cháy quá mà"
+    }
+  ]
+}
